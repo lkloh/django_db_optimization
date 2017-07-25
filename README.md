@@ -8,3 +8,9 @@ Demo of [select_relatedß](https://timmyomahony.com/blog/misconceptions-select_r
 
 [link](https://docs.djangoproject.com/en/1.11/intro/tutorial02/)
 `python manage.py shell`
+
+## Admin user
+
+* Username: admin
+* Email: admin@example.com
+* Password: notifications
